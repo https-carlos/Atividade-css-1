@@ -1,0 +1,28 @@
+.esqcima, .dircima, .esqbaixo, .dirbaixo {
+    position: absolute;
+}
+
+
+.esqcima {
+    top: 0px;
+    left: 0px;
+    background-color: aqua; width: 150px; height: 130px;  
+}
+
+.dircima{
+ top: 0px;
+ right: 0px;
+ background-color: blue; width: 150px; height: 130px;
+}
+
+.esqbaixo{
+     bottom:0px;
+     left: 0px;
+     background-color: red; width: 150px; height: 130px;
+}
+
+.dirbaixo{
+bottom: 0px;
+right: 0px;
+background-color: green; width: 150px; height: 130px;
+}
